@@ -1,5 +1,6 @@
 ## ----setup, include=FALSE-----------------------------------------------------
 knitr::opts_chunk$set(echo = T, results = T, include = T, warning = F, message = F)
+options(HTTPUserAgent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36")
 
 ## -----------------------------------------------------------------------------
 # devtools::install_github("ropenspain/elecciones") # <--- Instala la librería elecciones
